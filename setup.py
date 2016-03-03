@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'mypackage234234234',
   packages = ['mypackage'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.4',
   description = 'A random test lib',
   author = 'Aaron Rosen',
   author_email = 'aaronorosen@gmail.com',
